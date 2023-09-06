@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 Olá! Meu nome é João Paulo Barroso e sou estudante de Engenharia de Computação.<br>Esse ano decidi embarcar de vez na área da programação e estou focado em aprimorar minhas habilidades em desenvolvimento de software, em especial no uso de Java e Springboot.<br> No meu perfil no Github, você encontrará alguns dos meus projetos e trabalhos realizados até o momento. Sinta-se à vontade para me dar um feedback!<br>"Não importa quantas vezes você falhe, você só precisa acertar uma vez para alcançar o sucesso."
+🔭 Sou estudante de Engenharia de Computação e apaixonado por tecnologia. Esse ano decidi embarcar de vez na área de Segurança da Informação e estou focado em construir minha carreira na área.
+
+Buscando aprimorar ainda mais meus conhecimentos na área de segurança da informação, estou cursando um renomado curso da DESEC, com o objetivo de me especializar como pentester, um profissional altamente habilidoso na identificação de vulnerabilidades e na realização de testes de penetração em sistemas, garantindo a proteção e a integridade das redes e informações sensíveis."Não importa quantas vezes você falhe, você só precisa acertar uma vez para alcançar o sucesso."
 
 
 ## 🌐 Socials:
